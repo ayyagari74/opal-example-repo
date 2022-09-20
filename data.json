@@ -15,7 +15,7 @@
       }
     },
     "eve": {
-      "roles": ["employee", "billing"],
+      "roles": ["customer"],
       "location": {
         "country": "US",
         "ip": "8.8.8.8"
